@@ -110,6 +110,6 @@ I believe the future belongs to those who combine creativity, technology, and co
   </a>
 </p>
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile, whehe!
 
 </div>
