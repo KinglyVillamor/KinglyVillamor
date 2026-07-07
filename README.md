@@ -4,9 +4,7 @@
 
 ###  IT Graduate • Full-Stack Developer • AI & Automation Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=40&lines=Building+Scalable+Applications;Exploring+AI+and+Automation;Full-Stack+Web+Development;Unity+Game+Development;Learning+and+Creating+Every+Day" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=00FF66&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%7C+AI+%26+Automation+Enthusiast;Building+Scalable+Web+Applications;Exploring+Modern+Software+Technologies;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
 
 
 ---
