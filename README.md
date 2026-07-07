@@ -75,9 +75,9 @@ C# application featuring student management, grade computation, and classic game
 
 ## Connect
 
-📧 your-email@example.com  
+📧 kinglyvillamor11@gmail.com
 🌐 [kingly-villamor-portfolio.vercel.app](https://kingly-villamor-portfolio.vercel.app/)  
-💼 [linkedin.com/in/kinglyvillamor](https://linkedin.com/in/kinglyvillamor)
+💼 [linkedin.com/in/kinglyvillamor](https://linkedin.com/in/kinglyvillamor-dev)
 
 <p>
   <a href="https://kingly-villamor-portfolio.vercel.app/">
