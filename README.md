@@ -1,8 +1,8 @@
 <div align="center">
 
-# 𝕂𝕀ℕ𝔾𝕃𝕐 𝕍𝕀𝕃𝕃𝔸𝕄𝕆ℝ
+# KINGLY VILLAMOR
 
-### 🌿 IT Graduate • Full-Stack Developer • AI & Automation Enthusiast 🌿
+###  IT Graduate • Full-Stack Developer • AI & Automation Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=40&lines=Building+Scalable+Applications;Exploring+AI+and+Automation;Full-Stack+Web+Development;Unity+Game+Development;Learning+and+Creating+Every+Day" alt="Typing SVG" />
 
