@@ -114,6 +114,23 @@ I believe the future belongs to those who combine creativity, technology, and co
 
 <div align="center">
 
+---
+
+### Developer Profile
+
+| Attribute | Value |
+|-----------|-------|
+| **Role** | Full-Stack Developer |
+| **Education** | BS Information Technology |
+| **Location** | Cainta, Rizal, Philippines |
+| **Interests** | AI Automation · ERP Development · Web Development · Game Development |
+| **Current Focus** | Building scalable applications with clean code |
+| **Motto** | Learn. Build. Improve. Repeat. |
+
+---
+
+<div align="center">
+
 ### 🌐 Let's Connect
 
 📧 **kinglyvillamor11@gmail.com**  
@@ -138,7 +155,3 @@ I believe the future belongs to those who combine creativity, technology, and co
 ⭐ Thanks for visiting my profile!
 
 </div>
-
-"Turning ideas into systems. Turning systems into impact."
-
-</div> 
