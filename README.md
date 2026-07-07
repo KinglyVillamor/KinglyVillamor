@@ -62,10 +62,6 @@ A first-person psychological horror game inspired by a university environment, d
 
 🔹 AI Automation Workflows
 
-🔹 Enterprise Resource Planning (ERP)
-
-🔹 SAP Development
-
 🔹 Modern Web Technologies
 
 🔹 Intelligent Business Solutions
