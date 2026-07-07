@@ -115,13 +115,17 @@ Comprehensive C# application featuring student management, grade computation, sa
 
 ## 📈 GitHub Analytics
 
+<!-- Replace "kinglyvillamor" with your actual GitHub username if different -->
+
+### 📊 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kinglyvillamor&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinglyvillamor&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kinglyvillamor&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinglyvillamor&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Languages" />
 </p>
 
+### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinglyvillamor&theme=graywhite&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinglyvillamor&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" />
 </p>
 
 ---
