@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm **Kingly Villamor**, a 23-year-old IT Graduate from the University of Rizal System - Binangonan. I'm passionate about building scalable applications with clean, maintainable code, with a growing interest in AI, automation, and modern software technologies.
+I'm **Kingly Villamor**, a 23-year-old IT Graduate from the University of Rizal System. I'm passionate about building scalable applications with clean, maintainable code, with a growing interest in AI, automation, and modern software technologies.
 
 I enjoy solving real-world problems through technology and collaborating with teams that value creativity and continuous growth. Whether it's developing web applications, automating workflows, or creating immersive gaming experiences, I'm driven by curiosity and innovation.
 
