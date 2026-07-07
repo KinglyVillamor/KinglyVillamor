@@ -115,12 +115,11 @@ Comprehensive C# application featuring student management, grade computation, sa
 
 ## 📈 GitHub Analytics
 
-<!-- Replace "kinglyvillamor" with your actual GitHub username if different -->
 
 ### 📊 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kinglyvillamor&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinglyvillamor&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KinglyVillamor&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinglyVillamor&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Languages" />
 </p>
 
 ### 🔥 Streak
