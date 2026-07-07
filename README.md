@@ -53,50 +53,6 @@ I enjoy solving real-world problems through technology and collaborating with te
 
 ---
 
-## Featured Projects
-
-### [AI Resume Analyzer Automation](https://github.com/kinglyvillamor/ai-resume-analyzer)
-AI-powered recruitment automation workflow using n8n that processes resumes, analyzes candidates with Google Gemini, generates match scores, sends automated emails, and stores records in Google Sheets.
-
-`n8n` · `Google Gemini API` · `Gmail API` · `Google Sheets API` · `JavaScript`
-
----
-
-### [The Finding of Isabel](https://github.com/kinglyvillamor/the-finding-of-isabel)
-3D single-player horror game built with Unity and C# as a capstone project (2024–2025). Features a 3D model of the University of Rizal System (Binangonan Campus), exploration, puzzles, and immersive storytelling.
-
-`Unity` · `C#` · `Blender` · `Mixamo` · `Unity Pro-Builder`
-
----
-
-### [AnalyTiX Dashboard](https://github.com/kinglyvillamor/analytix-dashboard)
-Analytics dashboard that simulates real-time data streaming with live KPI updates, dynamic bar charts, activity feed, and transaction monitoring with a clean monochrome aesthetic. Built with Vue.js 3.
-
-`Vue.js` · `JavaScript` · `HTML/CSS` · `Chart.js`
-
----
-
-### [ExpenseTracker](https://github.com/kinglyvillamor/expensetracker)
-Full-stack finance application with auto-categorization, real-time analytics, and SQLite persistence. Features CSV import, transaction management, and interactive data visualization.
-
-`FastAPI` · `Python` · `SQLite` · `Chart.js` · `REST API`
-
----
-
-### [Agri-Cultiva](https://github.com/kinglyvillamor/agri-cultiva)
-Dynamic CMS-powered agricultural information portal with an admin dashboard for managing content, media, and announcements.
-
-`PHP` · `MySQL` · `phpMyAdmin` · `HTML/CSS` · `JavaScript`
-
----
-
-### [IRREG Console Suite](https://github.com/kinglyvillamor/irreg-suite)
-Comprehensive C# application featuring student management, grade computation, sales transaction system, Snake game, and Tic-Tac-Toe. Built as a first-year final project.
-
-`C#` · `.NET` · `Console Application`
-
----
-
 ## Current Focus
 
 | Focus Area | Description |
