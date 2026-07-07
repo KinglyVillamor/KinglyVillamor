@@ -4,7 +4,10 @@
 
 ###  IT Graduate • Full-Stack Developer • AI & Automation Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=404040&center=true&vCenter=true&width=700&height=40&lines=Kingly+Villamor;Full-Stack+Developer;AI+%26+Automation+Enthusiast;IT+Graduate+%7C+URS+Binangonan" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Merriweather&weight=400&size=16&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Solutions;IT+Graduate+%7C+URS+Binangonan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=400&size=16&pause=1500&color=000000&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Solutions;IT+Graduate+%7C+URS+Binangonan" alt="Typing SVG" />
+</picture>
 
 ---
 
