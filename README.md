@@ -4,8 +4,7 @@
 
 ###  IT Graduate • Full-Stack Developer • AI & Automation Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=00FF66&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%7C+AI+%26+Automation+Enthusiast;Building+Scalable+Web+Applications;Exploring+Modern+Software+Technologies;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=404040&center=true&vCenter=true&width=700&height=40&lines=Kingly+Villamor;Full-Stack+Developer;AI+%26+Automation+Enthusiast;IT+Graduate+%7C+URS+Binangonan" alt="Typing SVG" />
 
 ---
 
