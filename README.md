@@ -16,8 +16,8 @@ I'm **Kingly Villamor**, a 23-year-old IT Graduate from the University of Rizal 
 
 I enjoy solving real-world problems through technology and collaborating with teams that value creativity and continuous growth. Whether it's developing web applications, automating workflows, or creating immersive gaming experiences, I'm driven by curiosity and innovation.
 
-> ** Location:** Cainta, Rizal, Philippines  
-> ** Open for:** Opportunities in Software Development, AI Automation, and ERP Systems
+>  Location: Cainta, Rizal, Philippines  
+>  Open for: Opportunities in Software Development, AI Automation, ERP Systems or any IT Roles.
 
 ---
 
@@ -26,10 +26,7 @@ I enjoy solving real-world problems through technology and collaborating with te
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -39,11 +36,7 @@ I enjoy solving real-world problems through technology and collaborating with te
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -119,7 +112,7 @@ I aspire to become an **AI Engineer** and **ERP Developer** capable of building 
 
 I believe the future belongs to those who combine creativity, technology, and continuous learning.
 
-```javascript
+javascript
 const kingly = {
     role: "Full-Stack Developer",
     education: "BS Information Technology",
@@ -145,4 +138,4 @@ const kingly = {
 
 "Turning ideas into systems. Turning systems into impact."
 
-</div> ```
+</div> 
