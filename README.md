@@ -96,16 +96,16 @@ I believe the future belongs to those who combine creativity, technology, and co
 💼 **linkedin.com/in/kinglyvillamor-dev**
 
 <p>
-  <a href="https://kingly-villamor-portfolio.vercel.app/">
+  <a href="[https://kingly-villamor-portfolio.vercel.app/](https://kingly-villamor-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:kinglyvillamor11@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/kinglyvillamor-dev">
+  <a href="[https://linkedin.com/in/kinglyvillamor-dev](https://www.linkedin.com/in/kinglyvillamor-dev/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kinglyvillamor">
+  <a href="https://github.com/KinglyVillamor">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
