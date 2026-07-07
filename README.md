@@ -79,7 +79,7 @@ I believe the future belongs to those who combine creativity, technology, and co
 | Attribute | Value |
 |-----------|-------|
 | **Role** | Full-Stack Developer |
-| **Education** | BS Information Technology |
+| **Education** | Bachelor of Science in Information Technology |
 | **Location** | Cainta, Rizal, Philippines |
 | **Interests** | AI Automation · ERP Development · Web Development · Game Development |
 | **Current Focus** | Building scalable applications with clean code |
