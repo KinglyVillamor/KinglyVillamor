@@ -6,7 +6,7 @@
 ### <span style="font-family: 'Georgia', 'Times New Roman', serif; font-weight: 400; font-size: 22px;">IT Graduate • Full-Stack Developer • AI & Automation Enthusiast</span>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Solutions;IT+Graduate+%7C+URS+Binangonan" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Solutions;IT+Graduate+%7C+" />
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1500&color=000000&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Scalable+Solutions;IT+Graduate+%7C+URS+Binangonan" alt="Typing SVG" />
 </picture>
 
